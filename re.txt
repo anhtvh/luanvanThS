@@ -1,0 +1,7 @@
+torch
+torchvision
+torchtext
+torchwordemb
+pandas
+dill
+scikit-learn
